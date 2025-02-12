@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(32, 32, 32);
+    color: whitesmoke;
+    outline: 2px solid red;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.emperor {
+    text-align: center;
+    font-weight: bold;
+}
+
+.pain {
+    padding: 5%;
+    border: 5px solid blue;
+    margin: 5%;
+}
