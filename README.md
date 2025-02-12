@@ -10,4 +10,4 @@ the real purpose of training isn't to win a trophy
 but to test the limits of the human mind,
 the real purpose of training isn'tt to conquer others
 but to conqure the unaspiring within ourselves,
-thats training
+thats training"
