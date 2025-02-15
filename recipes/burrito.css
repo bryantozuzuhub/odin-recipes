@@ -15,7 +15,7 @@ h1 {
 }
 
 .pain {
-    padding: 5%;
+    padding: 5px;
     border: 5px solid blue;
-    margin: 5%;
+    margin: auto;
 }
