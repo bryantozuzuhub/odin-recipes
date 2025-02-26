@@ -1,8 +1,11 @@
 *{
-    background-color: rgb(32, 32, 32);
+    border: 2px solid red;
 }
 
-.duty,
-a {
-    color: white;
+.duty {
+    text-align: center;
+}
+
+#egghead{
+    padding: 20px;
 }
