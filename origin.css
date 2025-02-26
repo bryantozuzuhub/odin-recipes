@@ -4,8 +4,20 @@
 
 .duty {
     text-align: center;
+    font-size: 50px;
+    font-weight: 30px;
 }
 
-#egghead{
+#egghead {
     padding: 20px;
+}
+
+#trent{
+    padding: 20px;
+    justify-content: center;
+}
+
+#pizzabutton {
+    padding: 10px;
+    
 }
