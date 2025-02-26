@@ -1,5 +1,5 @@
 *{
-    border: 2px solid red;
+    
 }
 
 .duty {
@@ -17,7 +17,11 @@
     justify-content: center;
 }
 
-#pizzabutton {
+.pizza-button,
+.burrito-button,
+.lasagna-button {
+    color: antiquewhite;
     padding: 10px;
-    
+    justify-content: center;
+    display: block
 }
