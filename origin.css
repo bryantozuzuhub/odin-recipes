@@ -1,6 +1,4 @@
-*{
-    
-}
+
 
 .duty {
     text-align: center;
@@ -20,8 +18,12 @@
 .pizza-button,
 .burrito-button,
 .lasagna-button {
-    color: antiquewhite;
+    color: black;
     padding: 10px;
     justify-content: center;
     display: block
+}
+
+.centerdiv {
+    width: 200px;
 }
