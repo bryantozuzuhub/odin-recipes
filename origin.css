@@ -8,6 +8,7 @@
 
 #egghead {
     padding: 20px;
+
 }
 
 #trent{
@@ -21,7 +22,8 @@
     color: black;
     padding: 10px;
     justify-content: center;
-    display: block
+    display: block;
+    margin: 20px;
 }
 
 .centerdiv {
